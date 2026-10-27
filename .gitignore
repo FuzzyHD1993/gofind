@@ -1,0 +1,4 @@
+/gofind
+*.db
+*.db-shm
+*.db-wal
